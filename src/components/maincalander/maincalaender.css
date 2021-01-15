@@ -1,0 +1,47 @@
+.root-cal {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 10px 0px gray;
+    margin-bottom: 20px !important;
+  
+
+
+}
+
+.main-cla {
+    width: 1100px !important;
+    height: 330px !important;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.e-toolbar-items,
+.e-schedule-toolbar-container,
+.e-schedule-toolbar {
+    background-color: #68b358 !important;
+}
+
+.participent {
+    width: 200px;
+    height: 350px;
+    overflow-y: scroll;
+    text-decoration: none;
+    overflow-x: scroll;
+    
+}
+ul > li {
+    list-style-type: none;
+}
+
+.participent-li {
+    font-size: x-large;
+    color: #000 !important;
+    line-height: 50px;
+}
+.e-appointment-details {
+    background-color: #68b358 !important;
+}
+
+.MuiDivider-middle {
+    background-color: #68b358 !important;
+}

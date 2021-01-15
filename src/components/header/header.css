@@ -1,0 +1,32 @@
+.root {
+    background-color: #fff !important;
+    color: goldenrod !important;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.tab {
+    color: #68b358 !important;
+}
+.tab:active {
+    color: #68b358 !important;
+    
+}
+.tab:hover {
+    color: #68b358 !important;
+    
+}
+.tabs {
+    color: #000 !important;
+    font-weight: bolder !important;
+}
+
+.tabs:active {
+    color: #68b358 !important;
+}
+
+.tabs:hover {
+    color: #68b358 !important;
+    
+}

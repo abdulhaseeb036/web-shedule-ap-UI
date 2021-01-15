@@ -1,0 +1,18 @@
+.root {
+    background-color: #fff !important;
+    color: goldenrod !important;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.tabs {
+    color: #000 !important;
+    font-weight: bolder !important;
+}
+
+.event-name {
+    color: #68b358;
+}
+.MuiList-root li {
+    background-color:  #68b358 !important;
+}
